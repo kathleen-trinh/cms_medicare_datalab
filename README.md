@@ -25,3 +25,6 @@ Use the SQL files in this folder to create a database for CMS Data.
 
 ## python_notebooks
 Use the Python notebooks in this folder to query the PostgreSQL database containing the CMS Data.
+
+## sql_queries
+SQL files containing various sample queries to the database containing the CMS Data.
