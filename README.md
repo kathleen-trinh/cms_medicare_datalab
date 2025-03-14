@@ -22,3 +22,6 @@ https://www.cms.gov/data-research/statistics-trends-and-reports/medicare-claims-
 
 ## database_setup
 Use the SQL files in this folder to create a database for CMS Data.
+
+## python_notebooks
+Use the Python notebooks in this folder to query the PostgreSQL database containing the CMS Data.
